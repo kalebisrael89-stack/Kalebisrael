@@ -24,4 +24,6 @@
 
 <h2> 📲 Connect with me:</h2>
 
+[<img align="left" alt="Kaleb | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/2b09b0c8-482a-4dda-bf73-f00ca34ea8b5" />][linkedin]
+
 [linkedin]: https://linkedin.com/in/kalebisrael
