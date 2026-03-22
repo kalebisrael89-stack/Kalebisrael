@@ -4,10 +4,10 @@
 
 
 
-Certifications 
-Microsoft SC-300 
-Okta Professional
-Okta Admin
+Certifications |
+|Microsoft SC-300 
+|Okta Professional
+|Okta Admin
  
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
