@@ -24,6 +24,6 @@
 
 <h2> 📲 Connect with me:</h2>
 
-[<img align="left" alt="Kaleb | LinkedIn" width="22px" src="www.linkedin.com/in/kaleb-i-bb0576155" />][linkedin]
+[<img align="left" alt="Kaleb | LinkedIn" width="22px" src= www.linkedin.com/in/kaleb-i-bb0576155 />][linkedin]
 
 [linkedin]: www.linkedin.com/in/kaleb-i-bb0576155
