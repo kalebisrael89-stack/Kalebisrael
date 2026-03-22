@@ -1,4 +1,4 @@
-# <h1>Hi, I'm Kaleb Israel ! <br/><a href="https://github.com/Kalebisrael89"> IAM ANALYST
+# <h1>Hi, I'm Kaleb Israel ! <br/><a href="https://github.com/Kalebisrael89"> 
 
 <h1>Hi, I'm Kaleb, a <a href="https://www.linkedin.com/in/kalebisrael/">Identity Access Management Engineer</a> 👋🏾 
 
