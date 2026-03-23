@@ -16,11 +16,10 @@
 
 <h2>🏆 Certifications </h2>
 
-- [CompTIA Security+](https://www.credly.com/badges/1b3d4400-4bd8-4643-8211-bbf899da7859)
 - [Microsoft Certified: Identity and Access Administrator Associate (SC-300)]
 - [CyberArk Sentry - PAM]()
 - [CyberArk Defender - PAM]
-
+- [CompTIA Security+](https://www.credly.com/badges/1b3d4400-4bd8-4643-8211-bbf899da7859)
 
 <h2> 📲 Connect with me:</h2>
 
